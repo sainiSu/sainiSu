@@ -79,7 +79,7 @@
 ## 🤝 Connect with me  
 
 <p align="left">
-<a href="www.linkedin.com/in/suman-saini-6726a8105" target="blank">
+<a href="https://www.linkedin.com/in/suman-saini-6726a8105" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://discord.gg/suman0140" target="blank">
