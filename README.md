@@ -63,8 +63,8 @@
 
 🔭 I’m currently working on **Music School website.**  
 
-- A website where i am using Nextjs and Typescript.  
-- In this project am using a special UI/UX library for the best visulazation.  
+- A project in which i am using Nextjs and Typescript.  
+- In this project am using a special UI **(Aceternity)** library for the best visulazation.  
 
 ---
 
