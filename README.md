@@ -61,10 +61,10 @@
 
 ## 👨‍💻 Recent Project  
 
-🔭 I’m currently working on **Chat application app.**  
+🔭 I’m currently working on **Music School website.**  
 
-- A real-time messaging app using React.js & Node.js.  
-- Other frontend projects focused on UI/UX and interactive experiences.  
+- A website where i am using Nextjs and Typescript.  
+- In this project am using a special UI/UX library for the best visulazation.  
 
 ---
 
