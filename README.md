@@ -63,7 +63,7 @@
 
 🔭 I’m currently working on **Music School website.**  
 
-- A project in which i am using Nextjs and Typescript.  
+- A project in which i am using Next.js and Typescript.  
 - In this project am using a special UI **(Aceternity)** library for the best visulazation.  
 
 ---
