@@ -5,7 +5,9 @@
 
 
 
-💬**About me**
+### 🚀 About Me
+
+I'm a passionate **Frontend Developer** with hands-on experience building responsive, user-friendly web applications using **React.js**, **Tailwind CSS**, and modern **JavaScript** libraries. I love creating beautiful UI and intuitive user experiences.
 
 💻 I completed my Front-End Web Development specialization at **IT Academy Barcelona**.
 
@@ -13,7 +15,9 @@
 
 📚 Always eager to learn new technologies and improve my skills.
 
-🌱 I’m currently learning **Backend technologies like Node.js**  
+🌱 I’m currently learning **Node.js, Express.js** 
+
+🧠 Also exploring: **Web animations**(UI library) , **design systems**, and **clean code architecture**
 
 ---
 
@@ -47,6 +51,36 @@
 
 ---
 
+## 👨‍💻 Recent Project  
+
+🔭 I’m currently working on **Music School website.**  
+
+- A project in which i am using Next.js and Typescript.  
+- In this project am using a special UI **(Aceternity)** library for the best visulazation.  
+
+---
+
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **Movie Mood App** | Discover movies based on your mood | React, Tailwind CSS | [Live Demo](https://movie-mood-omega.vercel.app/) |
+| **Music School Website**| Explored the new UI library in my first project with  Next.js |TialwindCss ,Typescript | [Live Demo](https://music-school-ui-next-js-ahyu.vercel.app/) |
+| **Portfolio**| My personal portfolio with React |React | Tailwind CSS | [Live Demo](https://portfolio-ecru-three-57.vercel.app/) |
+
+> Each project includes a detailed README, live demo link.
+
+---
+
+## 📂 Projects  
+
+- 👨‍💻 All of my projects are available at [https://www.github.com/sainisu](https://www.github.com/sainisu)  
+
+- 📫 How to reach me **Gunisu3@gmail.com**  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="left">
@@ -59,24 +93,8 @@
 
 ---
 
-## 👨‍💻 Recent Project  
 
-🔭 I’m currently working on **Music School website.**  
-
-- A project in which i am using Next.js and Typescript.  
-- In this project am using a special UI **(Aceternity)** library for the best visulazation.  
-
----
-
-## 📂 Projects  
-
-- 👨‍💻 All of my projects are available at [https://www.github.com/sainisu](https://www.github.com/sainisu)  
-
-- 📫 How to reach me **Gunisu3@gmail.com**  
-
----
-
-## 🤝 Connect with me  
+### 📫 Let’s Connect 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suman-saini-6726a8105" target="_blank">
@@ -91,6 +109,7 @@
 </p>
 
 
+Thank you for visiting my profile! 
 
  **______________________________________________________________________________________**
 
