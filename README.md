@@ -66,7 +66,7 @@ I'm a passionate **Frontend Developer** with hands-on experience building respon
 |--------|-------------|------------|------|
 | **Movie Mood App** | Discover movies based on your mood | React, Tailwind CSS | [Live Demo](https://movie-mood-omega.vercel.app/) |
 | **Music School Website**| Explored the new UI library in my first project with  Next.js |TialwindCss ,Typescript | [Live Demo](https://music-school-ui-next-js-ahyu.vercel.app/) |
-| **Portfolio**| My personal portfolio with React |React | Tailwind CSS | [Live Demo](https://portfolio-ecru-three-57.vercel.app/) |
+| **Portfolio**| My personal portfolio with React |React ,Tailwind CSS | [Live Demo](https://portfolio-ecru-three-57.vercel.app/) |
 
 > Each project includes a detailed README, live demo link.
 
