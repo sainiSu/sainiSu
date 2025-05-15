@@ -50,12 +50,12 @@ I'm a passionate **Frontend Developer** with hands-on experience building respon
 
 ---
 
-## 👨‍💻 Recent Project  
+## 👨‍💻 Recent Learning 
 
-🔭 I’m currently working on **Music School website.**  
+🔭 I’m currently Leaning  **Node:JS ,Express.Js and API.**  
 
-- A project in which i am using Next.js and Typescript.  
-- In this project am using a special UI **(Aceternity)** library for the best visulazation.  
+- This is a YouTube tutorial which is meant to be leaning a new langauage.  
+- This tutorial is about **CRUD** (Create Read Update and Delete).  
 
 ---
 
