@@ -52,7 +52,7 @@ I'm a passionate **Frontend Developer** with hands-on experience building respon
 
 ## 👨‍💻 Recent Learning 
 
-🔭 I’m currently Leaning  **Node:JS ,Express.Js and API.**  
+🔭 I’m currently Leaning  **Node.JS ,Express.Js and API.**  
 
 - This is a YouTube tutorial which is meant to be leaning a new langauage.  
 - This tutorial is about **CRUD** (Create Read Update and Delete).  
