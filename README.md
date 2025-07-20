@@ -50,19 +50,19 @@ I'm a passionate **Frontend Developer** with hands-on experience building respon
 
 ---
 
-## 👨‍💻 Recent Learning 
+## 📚 Recent Learning
 
-🔭 I’m currently Leaning  **Node.JS ,Express.Js and API.**  
+🔹 Currently learning **Node.js**, **Express.js** .  
+Focusing on backend fundamentals like routing, middleware, and CRUD operations.
 
-- This is a YouTube tutorial which is meant to be leaning a new langauage.  
-- This tutorial is about **CRUD** (Create Read Update and Delete).  
+🔹 Working with **Tailwind CSS** and **shadcn/ui** for modern, responsive UI development.  
+Practicing reusable component design and UI consistency.
 
----
+## 🚀 Recent Project
 
-## 👨‍💻 Recent Project 
-👨‍💻  Currrently am working on **Storybook project**
-
-- Storybook is a frontend workshop for building UI components and pages in isolation.
+🔧 Currently working on the **SheHub Landing Page** project.  
+Building interactive and responsive UI components using **Tailwind CSS**, and **shadcn/ui**.  
+This project involves component-based architecture, version control with Git, and collaboration using GitHub branches.
 
 ---
 
