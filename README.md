@@ -58,7 +58,7 @@ Focusing on backend fundamentals like routing, middleware, and CRUD operations.
 🔹 Working with **Tailwind CSS** and **shadcn/ui** for modern, responsive UI development.  
 Practicing reusable component design and UI consistency.
 
-## 🚀 Recent Project
+## 🚀 Current work-in-Progress
 
 🔧 Currently working on the **SheHub Landing Page** project.  
 Building interactive and responsive UI components using **Tailwind CSS**, and **shadcn/ui**.  
